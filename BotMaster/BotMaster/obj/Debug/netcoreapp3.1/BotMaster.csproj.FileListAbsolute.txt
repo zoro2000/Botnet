@@ -1,0 +1,13 @@
+D:\Test\Bot-Discord\BotMaster\BotMaster\bin\Debug\netcoreapp3.1\BotMaster.exe
+D:\Test\Bot-Discord\BotMaster\BotMaster\bin\Debug\netcoreapp3.1\BotMaster.deps.json
+D:\Test\Bot-Discord\BotMaster\BotMaster\bin\Debug\netcoreapp3.1\BotMaster.runtimeconfig.json
+D:\Test\Bot-Discord\BotMaster\BotMaster\bin\Debug\netcoreapp3.1\BotMaster.runtimeconfig.dev.json
+D:\Test\Bot-Discord\BotMaster\BotMaster\bin\Debug\netcoreapp3.1\BotMaster.dll
+D:\Test\Bot-Discord\BotMaster\BotMaster\bin\Debug\netcoreapp3.1\BotMaster.pdb
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.AssemblyInfoInputs.cache
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.AssemblyInfo.cs
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.csproj.CoreCompileInputs.cache
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.dll
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.pdb
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.genruntimeconfig.cache
+D:\Test\Bot-Discord\BotMaster\BotMaster\obj\Debug\netcoreapp3.1\BotMaster.csprojAssemblyReference.cache

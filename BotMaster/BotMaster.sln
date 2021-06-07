@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotMaster", "BotMaster\BotMaster.csproj", "{E9782CFD-F702-4D5E-BF8A-446E40EC9B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9782CFD-F702-4D5E-BF8A-446E40EC9B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9782CFD-F702-4D5E-BF8A-446E40EC9B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9782CFD-F702-4D5E-BF8A-446E40EC9B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9782CFD-F702-4D5E-BF8A-446E40EC9B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6DF623F-8E4D-45D2-B2D9-640D984D666C}
+	EndGlobalSection
+EndGlobal

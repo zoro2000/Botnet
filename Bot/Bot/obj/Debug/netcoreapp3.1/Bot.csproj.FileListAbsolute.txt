@@ -1,0 +1,13 @@
+D:\Test\Bot-Discord\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.exe
+D:\Test\Bot-Discord\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.deps.json
+D:\Test\Bot-Discord\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.runtimeconfig.json
+D:\Test\Bot-Discord\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.runtimeconfig.dev.json
+D:\Test\Bot-Discord\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.dll
+D:\Test\Bot-Discord\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.pdb
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.csprojAssemblyReference.cache
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfoInputs.cache
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfo.cs
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.csproj.CoreCompileInputs.cache
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.dll
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.pdb
+D:\Test\Bot-Discord\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.genruntimeconfig.cache
